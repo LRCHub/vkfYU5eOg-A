@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ドキッ！こういうのが恋なの？",
+  "base_artist": "中2映画プロジェクトアイドル部",
+  "createdAt": "2026-02-17T08:17:58.658143Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "うれっこアイドル (ドキッ! こういうのが恋なの?)",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/01_うれっこアイドル_(ドキッ!_こういうのが恋なの_)_Various_Artists.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ドキッ!こういうのが恋なの?",
+      "artist": "中2映画プロジェクトアイドル部",
+      "has_synced": false,
+      "path": "select/pl_01_ドキッ!こういうのが恋なの_中2映画プロジェクトアイドル部.txt"
+    }
+  ]
+}
